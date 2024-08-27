@@ -20,29 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto IA IMAGE
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de uma imagem com IA generativa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Adobe Firefly
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi realizada a inserção do texto para que a IA crie a imagem desejada.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Uma imagem dinâmica e consistente.
 
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [IMAGE](/exemplos/IMAGE.md)
 
 ## Links Interessantes
 
